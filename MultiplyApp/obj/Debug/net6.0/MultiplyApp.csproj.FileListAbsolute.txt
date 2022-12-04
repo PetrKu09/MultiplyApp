@@ -1,0 +1,15 @@
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\bin\Debug\net6.0\MultiplyApp.exe
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\bin\Debug\net6.0\MultiplyApp.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\bin\Debug\net6.0\MultiplyApp.runtimeconfig.json
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\bin\Debug\net6.0\MultiplyApp.dll
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\bin\Debug\net6.0\MultiplyApp.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\obj\Debug\net6.0\MultiplyApp.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\obj\Debug\net6.0\MultiplyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\obj\Debug\net6.0\MultiplyApp.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\obj\Debug\net6.0\MultiplyApp.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\obj\Debug\net6.0\MultiplyApp.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\obj\Debug\net6.0\MultiplyApp.dll
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\obj\Debug\net6.0\refint\MultiplyApp.dll
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\obj\Debug\net6.0\MultiplyApp.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\obj\Debug\net6.0\MultiplyApp.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\MultiplyApp\MultiplyApp\obj\Debug\net6.0\ref\MultiplyApp.dll
