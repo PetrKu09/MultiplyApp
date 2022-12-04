@@ -4,10 +4,12 @@
     {
         static void Main(string[] args)
         {
-            //double a = int.Parse(Console.ReadLine());
-            //double b = int.Parse(Console.ReadLine());
+            double a = int.Parse(Console.ReadLine());
+            double b = int.Parse(Console.ReadLine());
 
-            //Console.WriteLine(a * b);
+            Console.WriteLine(a * b);
+
+            Console.ReadLine();
         }
     }
 }
